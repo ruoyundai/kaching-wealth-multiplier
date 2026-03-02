@@ -1,0 +1,5 @@
+{
+  "name": "Wealth Multiplier Dashboard",
+  "description": "An interactive financial interface where toggling accounts dynamically multiplies your total income visualization.",
+  "requestFramePermissions": []
+}
